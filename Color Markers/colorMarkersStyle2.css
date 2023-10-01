@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+}
+
+.red{
+  width: 200px;
+  height: 25px;
+  background: linear-gradient(#A44630, #F0406E, #A82A2A);
+  margin: 10px auto;
+  box-shadow: 0 0 20px 0 #974726FF;
+}
+.green{
+  width: 200px;
+  height: 25px;
+  background: linear-gradient(#587411, #6BEC3F, #1A703A);
+  margin: 10px auto;
+  box-shadow: 0 0 20px 0 #566C0EFF;
+}
+.blue{
+  width: 200px;
+  height: 25px;
+  background: linear-gradient(#134B68, #3C70F0, #3138B2);
+  margin: 10px auto;
+  box-shadow: 0 0 20px 0 #0B434CFF;
+
+}
+.content{
+  width: 200px;
+  height: 105px;
+  margin: auto;
+  padding: 10px;
+}
+.sleeve{
+  height: 25px;
+  width: 110px;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-left: 64px;
+  border-left: double 10px rgba(0, 0, 0, 0.7);
+}
